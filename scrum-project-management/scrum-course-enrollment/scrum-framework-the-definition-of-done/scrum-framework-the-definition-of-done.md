@@ -1,8 +1,7 @@
 # Excerpt
 Scrum Framework: The Definition of Done provides an explanation of how to determine a scrum team's definition of done for user stories and bugs. Having a team agreed upon definition of done it permits a Scum team to know when items are releasable. Within a course titled Scrum Framework: Definition of Done, this linguistic-written-works-of-artz {L.WWoA} provides the five levels of planning, the evolution of product scope, the definition of done in product development, variations of defining done, creating a definition of done, the definition of done and the Sprint goal, and lastly, the definition of done and empiricism.
-
-Greetings & Salutations Earthlings!
-
+<br/>
+<br/>
 
 # Table of Contents
 1.	[Notes Overview](#notes-overview) 
@@ -16,10 +15,16 @@ Greetings & Salutations Earthlings!
 9.	[Course Summary](#course-summary)
 10.	[Conclusion](#conclusion)
 
+<br/>
+Greetings & Salutations Earthlings!
+<br/>
+
 # [Notes Overview](#notes-overview)
 Scrum Framework: The Definition of Done provides an explanation of how to determine a scrum team's definition of done for user stories and bugs. Having a team agreed upon definition of done it permits a Scum team to know when items are releasable. Within a course titled **Scrum Framework: Definition of Done**, this *linguistic-written-works-of-artz {L.WWoA}* provides the five levels of planning, the evolution of product scope, the definition of done in product development, variations of defining done, creating a definition of done, the definition of done and the Sprint goal, and lastly, the definition of done and empiricism.
 Currently, I work as a software engineer at Blue Streak Technologies located in Baton Rouge, Louisiana sub-contracted with CGI. As a part of our preparation for refining our objectives for Program Increment 16 of the Puerto Rico Disaster Recovery Project, we are permitted to enroll in an online training course within CGI Academia offered by issuer SkillSoft titled SCRUM Quality, Planning, and Completion: The Definition of Done.
 On Wednesday, May 15, 2021, I participated in and completed the online training course offered by SkillSoft and have complied my notes into this *linguistic-written-works-of-artz {L.WWoA}* titled **Scrum Framework: The Definition of Done**. As I study and learn about SCRUM agile methodology and framework to implement projects, I will compile notes into a *linguistic-written-works-of-artz {L.WWoA}* and share them with everyone. Yep-pey :)
+
+<br/>
 *Let the page-turning commence!*
 
 ---
