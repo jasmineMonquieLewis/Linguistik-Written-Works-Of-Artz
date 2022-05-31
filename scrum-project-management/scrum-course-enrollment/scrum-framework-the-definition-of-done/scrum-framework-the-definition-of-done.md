@@ -162,8 +162,8 @@ I recommend anyone interested in learning software development or project manage
 
 <br/>
 
-*Signed*
-The LightBringer
+*Signed*<br/>
+The LightBringer<br/>
 I am the eagle that flies ABOVE.
 <br/>
 
