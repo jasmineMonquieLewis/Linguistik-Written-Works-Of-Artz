@@ -24,8 +24,11 @@ Scrum Framework: The Definition of Done provides an explanation of how to determ
 Currently, I work as a software engineer at Blue Streak Technologies located in Baton Rouge, Louisiana sub-contracted with CGI. As a part of our preparation for refining our objectives for Program Increment 16 of the Puerto Rico Disaster Recovery Project, we are permitted to enroll in an online training course within CGI Academia offered by issuer SkillSoft titled SCRUM Quality, Planning, and Completion: The Definition of Done.
 On Wednesday, May 15, 2021, I participated in and completed the online training course offered by SkillSoft and have complied my notes into this *linguistic-written-works-of-artz {L.WWoA}* titled **Scrum Framework: The Definition of Done**. As I study and learn about SCRUM agile methodology and framework to implement projects, I will compile notes into a *linguistic-written-works-of-artz {L.WWoA}* and share them with everyone. Yep-pey :)
 
+
 <br/>
+
 *Let the page-turning commence!*
+
 
 ---
 # [Five Levels of Planning](#five-levels-of-planning)
