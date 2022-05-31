@@ -77,9 +77,10 @@ c.	Value
 a.	Addresses need to be done
 ### Acceptance Criteria Prevents
 #### Gold-Plating
-Acceptance Criteria Prevents Gold-Plating. Gold-Plating is good intentions leading to problems.
----
 
+Acceptance Criteria Prevents Gold-Plating. Gold-Plating is good intentions leading to problems.
+
+---
 # [Variations of Defining Done](#variations-of-defining-done)
 ## Done vs Potentially Releasable 
 Done vs Potentially Releasable is an opportunity for continuous development.
@@ -129,9 +130,10 @@ Four reasons for missing the Sprint Goal
 3.	Incorrect estimates
 4.	Lack of transparency
 ## Sprint Retrospective
-The Sprint Retrospective permits inspecting and adapting.
----
 
+The Sprint Retrospective permits inspecting and adapting.
+
+---
 # [The Definition of Done and Empiricism](#the-definition-of-done-and-empiricism)
 ## Three Pillars of Empiricism (Scrum)
 ### Transparency
