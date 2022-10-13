@@ -19,6 +19,7 @@ I am on a journey of growth and currently read The Entergy Bus. As I read about 
 
 *Let the page-turning commence!* 
 
+<br/> 
 
 # Synopsis of The Energy Bus 
 
