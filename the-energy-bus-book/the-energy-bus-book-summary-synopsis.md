@@ -19,3 +19,18 @@ I am on a journey of growth and currently read The Entergy Bus. As I read about 
 # Synopsis of The Energy Bus 
 
 The Energy Bus is a book written by Jon Gordon providing ten rules to embrace positivity, improve and better our lives. Gordon presents ten rules through thirty-four chapters describing the power of positivity thoughts and energy. 
+
+<br/> 
+
+ 
+## Table of Contents 
+Table of Contents for The Entergy Bus 
+
+<br/> 
+
+
+
+### [Rules & Chapters]() 
+Rules & Links provides a guide for all rules based on corresponding chapters and book pages. 
+
+<br/> 
