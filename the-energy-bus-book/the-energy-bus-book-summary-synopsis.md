@@ -7,7 +7,6 @@ The Energy Bus Book Summary | Synopsis is provides a brief introduction and summ
 Greetings & Salutations Earthlings! 
 
 <br/> 
-<br/> 
 
 I am on a journey of growth and currently read The Entergy Bus. As I read about positivity, I will document  and summarize content in book. Each linguistic-written-works-of-artz will include links to other chapters for easier access to the information.  
 
