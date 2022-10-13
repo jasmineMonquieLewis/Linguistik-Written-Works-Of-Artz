@@ -7,7 +7,6 @@ Scrum Framework: The Definition of Done provides an explanation of how to determ
 
 ---
 
-<br/>
 
 # Table of Contents
 1.	[Notes Overview](#notes-overview) 
