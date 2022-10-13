@@ -29,7 +29,7 @@ Table of Contents for The Entergy Bus
 
 
 
-## [Rules & Chapters]() 
+### [Rules & Chapters]() 
 Rules & Links provides a guide for all rules based on corresponding chapters and book pages. 
 
 <br/> 
