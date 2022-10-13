@@ -7,16 +7,6 @@ Scrum Framework: The Definition of Done provides an explanation of how to determ
 
 ---
 
-# Hashtags 
-
-scrum <br/>
-todayilearn <br/>
-projectmanagement <br/>
-agilemethodology  <br/>
-<br/>
-
---- 
-
 <br/>
 
 # Table of Contents
