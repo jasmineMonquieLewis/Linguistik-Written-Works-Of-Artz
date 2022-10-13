@@ -21,7 +21,10 @@ Scrum Framework: The Definition of Done provides an explanation of how to determ
 9.	[Course Summary](#course-summary)
 10.	[Conclusion](#conclusion)
 
+---
+
 <br/>
+
 Greetings & Salutations Earthlings!
 <br/>
 <br/>
