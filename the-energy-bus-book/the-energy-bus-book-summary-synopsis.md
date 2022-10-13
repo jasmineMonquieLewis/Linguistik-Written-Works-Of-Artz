@@ -23,14 +23,14 @@ The Energy Bus is a book written by Jon Gordon providing ten rules to embrace po
 <br/> 
 
  
-## Table of Contents 
+# Table of Contents 
 Table of Contents for The Entergy Bus 
 
 <br/> 
 
 
 
-### [Rules & Chapters]() 
+## [Rules & Chapters]() 
 Rules & Links provides a guide for all rules based on corresponding chapters and book pages. 
 
 <br/> 
