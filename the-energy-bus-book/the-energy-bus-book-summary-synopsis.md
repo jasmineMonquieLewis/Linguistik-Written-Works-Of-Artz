@@ -85,7 +85,7 @@ TBD
 
 # Conclusion 
 
-In conclusion, I look forward to providing book takeaways, important author's quotes, and chapter summaries. This particular linguistic-written-works-of-artz provide links to a list of rules and summaries and each chapter summary based on accompanied rules. 
+In conclusion, I look forward to providing book takeaways, important author's quotes, and chapter summaries.  In this *linguistic-written-works-of-artz {L.WWoA}* titled **The Energy Bus Book Summar | Synopsis**, I provide links to a list of rules and summaries and each chapter summary based on accompanied rules. 
 <br/> 
 <br/> 
 
