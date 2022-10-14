@@ -28,26 +28,30 @@ Table of Contents for The Entergy Bus
 
 
 ## [Rule 1: You're the Driver of Your Bus]() 
-Chapters 1-6 set up the story of George's flat tire and using public transportation. Chapter 7 contains the first rule.
+Chapters 1 - 6 set up the story of George's flat tire and using public transportation. Chapter 7 contains the first rule.
 <br/> 
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
+### Chapters 1 –7 
+|  Chapter # | Chapter | Page |
 | --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+|  1 | Flat Tire | 1 |
+| 2  | Good News And Bad News | 9 |
+| 3 | The Long Walk Home  | 11 |
+| 4 | George Wakes Up  | 15 |
+| 5 | No Joy On The Bus  | 17 |
+| 6 | The Rules | 19 |
+| 7 | You're The Driver | 25 |
 
-
-
+<br/> 
 <br/> 
 
 ## [Rule 2: Desire, Vision, and Focus Move Your Bus in the Right Direction]()
-Chapters 8 –10, George learns about all mater is energy, shares his vision and focuses on thinking positive about his product launch of NTG-2000. Chapter 10 contains the second rule.
+Chapters 8 – 10, George learns about all mater is energy, shares his vision and focuses on thinking positive about his product launch of NTG-2000. Chapter 10 contains the second rule.
 <br/> 
 <br/> 
 
 ## [Rule 3: Fuel Your Ride with Positive Energy]()
-Chapters 11 –13,  George learns the energy equation, an anecdote of two dogs, and begins to implement and focus on changing his actions.
+Chapters 11 – 13,  George learns the energy equation, an anecdote of two dogs, and begins to implement and focus on changing his actions.
 <br/>
 <br/> 
 
