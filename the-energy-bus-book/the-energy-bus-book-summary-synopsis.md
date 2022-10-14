@@ -73,7 +73,7 @@ In chapters 8 – 10, George learns about all matter is energy, shares his visio
 <br/>  
 
 ## Rule 3: Fuel Your Ride with Positive Energy
-In chapters 11 – 13, George learns the energy equation, an anecdote of two dogs, and begins to implement and focus on changing his actions.
+In chapters 11 – 13, George learns the energy equation, an anecdote of two dogs, and begins to implement and focus on changing his actions. Chapter 11 contains the third rule.
 <br/>
 
 ### Chapters 11 - 13
