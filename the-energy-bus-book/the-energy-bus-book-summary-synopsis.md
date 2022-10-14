@@ -21,9 +21,21 @@ The Energy Bus is a book written by Jon Gordon providing ten rules to embrace po
 <br/> 
 
  
-# Table of Contents 
-Table of Contents for The Entergy Bus 
-<br/>
+# Table of Rules 
+Table of Rules for The Entergy Bus 
+
+1. You're the Driver of Your Bus
+2. Desire, Vision, and Focus Move Your Bus in the Right Direction
+3. Fuel Your Ride with Positive Energy
+4. Invite People on Your Bus and Share Your Vision for the Road Ahead
+5. Don't Waste Your Energy on Those Who Don't Get on Your Bus
+6. Post a Sign That Says "No Entergy Vampires" Allowed on Your Bus
+7. Enthusiasm attracts more Passengers and Energizes them during the Ride
+8. Love your Passengers
+9. Drive with Purpose
+10. Have Fun and Enjoy the Ride
+
+<br/> 
 
 ## Rule 1: You're the Driver of Your Bus 
 Chapters 1 - 6 set up the story of George's flat tire and using public transportation. Chapter 7 contains the first rule.
