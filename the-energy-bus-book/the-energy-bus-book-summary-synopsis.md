@@ -45,12 +45,12 @@ Chapters 1 - 6 set up the story of George's flat tire and using public transport
 <br/> 
 <br/> 
 
-## [Rule 2: Desire, Vision, and Focus Move Your Bus in the Right Direction]()
+## Rule 2: Desire, Vision, and Focus Move Your Bus in the Right Direction
 Chapters 8 – 10, George learns about all mater is energy, shares his vision and focuses on thinking positive about his product launch of NTG-2000. Chapter 10 contains the second rule.
 <br/> 
 <br/> 
 
-## [Rule 3: Fuel Your Ride with Positive Energy]()
+## Rule 3: Fuel Your Ride with Positive Energy
 Chapters 11 – 13,  George learns the energy equation, an anecdote of two dogs, and begins to implement and focus on changing his actions.
 <br/>
 <br/> 
