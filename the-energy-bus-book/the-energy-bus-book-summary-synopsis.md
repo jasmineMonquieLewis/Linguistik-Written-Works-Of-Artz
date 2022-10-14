@@ -35,6 +35,7 @@ Table of Rules for The Entergy Bus
 9. Drive with Purpose
 10. Have Fun and Enjoy the Ride
 
+---
 <br/> 
 
 ## Rule 1: You're the Driver of Your Bus 
