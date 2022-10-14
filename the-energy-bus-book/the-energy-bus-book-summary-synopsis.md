@@ -27,7 +27,7 @@ Table of Contents for The Entergy Bus
 <br/> 
 
 
-## [Rule 1: You're the Driver of Your Bus]() 
+## Rule 1: You're the Driver of Your Bus 
 Chapters 1 - 6 set up the story of George's flat tire and using public transportation. Chapter 7 contains the first rule.
 <br/> 
 
@@ -48,44 +48,52 @@ Chapters 1 - 6 set up the story of George's flat tire and using public transport
 ## Rule 2: Desire, Vision, and Focus Move Your Bus in the Right Direction
 Chapters 8 – 10, George learns about all mater is energy, shares his vision and focuses on thinking positive about his product launch of NTG-2000. Chapter 10 contains the second rule.
 <br/> 
+
+|  Chapter # | Chapter | Page |
+| --------------- | --------------- | --------------- |
+| 8 | It's All About Energy | 33 |
+| 9 | George Shares His Vision | 37 |
+| 10 | Focus | 41 |
+
 <br/> 
+<br/>  
 
 ## Rule 3: Fuel Your Ride with Positive Energy
 Chapters 11 – 13,  George learns the energy equation, an anecdote of two dogs, and begins to implement and focus on changing his actions.
 <br/>
 <br/> 
 
-## [Rule 4: Invite People on Your Bus and Share Your Vision for the Road Ahead]() 
+## Rule 4: Invite People on Your Bus and Share Your Vision for the Road Ahead
 TBD
 <br/>
 <br/> 
 
-## [Rule 5: Don't Waste Your Energy on Those Who Don't Get on Your Bus]()
+## Rule 5: Don't Waste Your Energy on Those Who Don't Get on Your Bus
 TBD
 <br/>
 <br/> 
 
-## [Rule 6: Post a Sign That Says "No Entergy Vampires" Allowed on Your Bus]() 
+## Rule 6: Post a Sign That Says "No Entergy Vampires" Allowed on Your Bus
 TBD
 <br/>
 <br/>
 
-## [Rule 7: Enthusiasm attracts more Passengers and Energizes them during the Ride]() 
+## Rule 7: Enthusiasm attracts more Passengers and Energizes them during the Ride
 TBD
 <br/> 
 <br/>
 
-## [Rule 8: Love your Passengers]() 
+## Rule 8: Love your Passengers
 TBD 
 <br/> 
 <br/>
 
-## [Rule 9: Drive with Purpose]() 
+## Rule 9: Drive with Purpose
 TBD 
 <br/> 
 <br/>
 
-## [Rule 10: Have Fun and Enjoy the Ride]() 
+## Rule 10: Have Fun and Enjoy the Ride
 TBD 
 <br/> 
 <br/>
