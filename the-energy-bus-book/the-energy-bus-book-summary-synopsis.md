@@ -1,6 +1,6 @@
 # Excerpt 
 
-**The Energy Bus Book Summary | Synopsis**  provides a brief introduction and summary of the ten rules and chapters. The Energy Bus is a book written by Jon Gordon providing ten rules to embrace positivity, improve and better our lives. Gordon presents ten rules through thirty-four chapters describing the power of positivity thoughts and energy.
+**The Energy Bus Book Summary | Synopsis**  provides a brief introduction and summary of the ten rules and chapters. The Energy Bus is a book written by Jon Gordon providing ten rules to embrace positive, improve and better our lives. Gordon presents ten rules through thirty-four chapters describing the power of positivity thoughts and energy.
 
 ---
 <br/> 
@@ -25,7 +25,6 @@ The Energy Bus is a book written by Jon Gordon providing ten rules to embrace po
 Table of Contents for The Entergy Bus 
 <br/>
 
-
 ## Rule 1: You're the Driver of Your Bus 
 Chapters 1 - 6 set up the story of George's flat tire and using public transportation. Chapter 7 contains the first rule.
 <br/> 
@@ -33,7 +32,7 @@ Chapters 1 - 6 set up the story of George's flat tire and using public transport
 ### Chapters 1 –7 
 |  Chapter # | Chapter | Page |
 | --------------- | --------------- | --------------- |
-|  1 | Flat Tire | 1 |
+| 1 | Flat Tire | 1 |
 | 2  | Good News And Bad News | 9 |
 | 3 | The Long Walk Home  | 11 |
 | 4 | George Wakes Up  | 15 |
