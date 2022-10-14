@@ -49,6 +49,7 @@ Chapters 1 - 6 set up the story of George's flat tire and using public transport
 Chapters 8 – 10, George learns about all mater is energy, shares his vision and focuses on thinking positive about his product launch of NTG-2000. Chapter 10 contains the second rule.
 <br/> 
 
+### Chapters 8 –10 
 |  Chapter # | Chapter | Page |
 | --------------- | --------------- | --------------- |
 | 8 | It's All About Energy | 33 |
@@ -61,7 +62,16 @@ Chapters 8 – 10, George learns about all mater is energy, shares his vision an
 ## Rule 3: Fuel Your Ride with Positive Energy
 Chapters 11 – 13,  George learns the energy equation, an anecdote of two dogs, and begins to implement and focus on changing his actions.
 <br/>
-<br/> 
+
+### Chapters 11 - 13
+|  Chapter # | Chapter | Page |
+| --------------- | --------------- | --------------- |
+| 11 | The Power Of Positive Energy | 45 |
+| 12 | George Takes A Walk | 51 |
+| 13 | One Great Golf Shot Theory | 53 |
+ 
+<br/>
+<br/>  
 
 ## Rule 4: Invite People on Your Bus and Share Your Vision for the Road Ahead
 TBD
