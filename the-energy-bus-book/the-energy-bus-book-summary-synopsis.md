@@ -3,6 +3,9 @@
 **The Energy Bus Book Summary | Synopsis**  provides a brief introduction and summary of the ten rules and chapters. The Energy Bus is a book written by Jon Gordon providing ten rules to embrace positive, improve and better our lives. Gordon presents ten rules through thirty-four chapters describing the power of positivity thoughts and energy.
 
 ---
+
+![Image Youre the Driver of Your Bus](https://github.com/jasmineMonquieLewis/Linguistic-Written-Works-Of-Artz/blob/the-energy-bus-book/the-energy-bus-book/assets/the-energy-bus-book-summary-synopsis.png)
+
 <br/> 
 
 Greetings & Salutations Earthlings! 
@@ -42,7 +45,7 @@ Table of Rules for The Entergy Bus
 
 ## Rule 1: You're the Driver of Your Bus
 
-![Image Youre the Driver of Your Bus](https://github.com/jasmineMonquieLewis/Linguistic-Written-Works-Of-Artz/blob/the-energy-bus-book/the-energy-bus-book/assets/the-energy-bus-book-summary-synopsis.png)
+![Image Youre the Driver of Your Bus](https://github.com/jasmineMonquieLewis/Linguistic-Written-Works-Of-Artz/blob/the-energy-bus-book/the-energy-bus-book/assets/the-energy-bus-book-summary-rule-1.png)
 
 Chapters 1 - 6 set up the story of George's flat tire and using public transportation. Chapter 7 contains the first rule.
 <br/> 
@@ -62,6 +65,9 @@ Chapters 1 - 6 set up the story of George's flat tire and using public transport
 <br/> 
 
 ## Rule 2: Desire, Vision, and Focus Move Your Bus in the Right Direction
+
+![Image Desire Vision and Focus Move Your Bus in the Right Direction](https://github.com/jasmineMonquieLewis/Linguistic-Written-Works-Of-Artz/blob/the-energy-bus-book/the-energy-bus-book/assets/the-energy-bus-book-summary-rule-2.png)
+
 In chapters 8 – 10, George learns about all matter is energy, shares his vision, and focuses on thinking positively about his product launch of NTG-2000. Chapter 10 contains the second rule.
 <br/> 
 
@@ -76,6 +82,9 @@ In chapters 8 – 10, George learns about all matter is energy, shares his visio
 <br/>  
 
 ## Rule 3: Fuel Your Ride with Positive Energy
+
+![Image Fuel Your Ride with Positive Energy](https://github.com/jasmineMonquieLewis/Linguistic-Written-Works-Of-Artz/blob/the-energy-bus-book/the-energy-bus-book/assets/the-energy-bus-book-summary-rule-3.png)
+
 In chapters 11 – 13, George learns the energy equation, an anecdote of two dogs, and begins to implement and focus on changing his actions. Chapter 11 contains the third rule.
 <br/>
 
