@@ -15,6 +15,8 @@ I am on a journey of growth and currently read The Entergy Bus. As I read about 
 
 ---
 
+
+
 # Synopsis of The Energy Bus 
 The Energy Bus is a book written by Jon Gordon providing ten rules to embrace positivity, improve and better our lives. Gordon presents ten rules through thirty-four chapters describing the power of positive thoughts and energy. 
 <br/> 
@@ -57,7 +59,7 @@ Chapters 1 - 6 set up the story of George's flat tire and using public transport
 <br/> 
 
 ## Rule 2: Desire, Vision, and Focus Move Your Bus in the Right Direction
-Chapters 8 – 10, George learns about all mater is energy, shares his vision and focuses on thinking positive about his product launch of NTG-2000. Chapter 10 contains the second rule.
+In chapters 8 – 10, George learns about all matter is energy, shares his vision, and focuses on thinking positively about his product launch of NTG-2000. Chapter 10 contains the second rule.
 <br/> 
 
 ### Chapters 8 –10 
