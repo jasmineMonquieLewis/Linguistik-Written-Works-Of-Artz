@@ -40,7 +40,10 @@ Table of Rules for The Entergy Bus
 ---
 <br/> 
 
-## Rule 1: You're the Driver of Your Bus 
+## Rule 1: You're the Driver of Your Bus
+
+![Image Youre the Driver of Your Bus](https://github.com/jasmineMonquieLewis/Linguistic-Written-Works-Of-Artz/blob/the-energy-bus-book/the-energy-bus-book/assets/the-energy-bus-book-summary-synopsis.png)
+
 Chapters 1 - 6 set up the story of George's flat tire and using public transportation. Chapter 7 contains the first rule.
 <br/> 
 
