@@ -8,7 +8,7 @@ The Energy Bus Book Summary | Synopsis is provides a brief introduction and summ
 Greetings & Salutations Earthlings! 
 <br/> 
 
-I am on a journey of growth and currently read The Entergy Bus. As I read about positivity, I will document  and summarize content in book. Each linguistic-written-works-of-artz will include links to other chapters for easier access to the information.  
+I am on a journey of growth and currently read The Entergy Bus. As I read about positivity, I will document  and summarize content in book.  In this *linguistic-written-works-of-artz {L.WWoA}* titled **The Energy Bus Book Summary | Synopsis**, I provide a brief description of chapters and accompany rules with links for easier access to the information. In addition, I include each page per chapter. 
 <br/> 
 
 *Let the page-turning commence!* 
@@ -27,15 +27,18 @@ Table of Contents for The Entergy Bus
 <br/> 
 
 
-## [Rules & Chapters]() 
-Rules & Links provides a guide for all rules based on corresponding chapters and book pages. 
-<br/> 
-<br/> 
-
-
 ## [Rule 1: You're the Driver of Your Bus]() 
 Chapters 1-6 set up the story of George's flat tire and using public transportation. Chapter 7 contains the first rule.
 <br/> 
+
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+
+
+
 <br/> 
 
 ## [Rule 2: Desire, Vision, and Focus Move Your Bus in the Right Direction]()
