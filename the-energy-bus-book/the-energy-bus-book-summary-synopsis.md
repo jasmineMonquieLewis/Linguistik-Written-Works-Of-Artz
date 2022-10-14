@@ -1,6 +1,6 @@
 # Excerpt 
 
-**The Energy Bus Book Summary | Synopsis**  provides a brief introduction and summary of the ten rules and chapters. The Energy Bus is a book written by Jon Gordon providing ten rules to embrace positive, improve and better our lives. Gordon presents ten rules through thirty-four chapters describing the power of positivity thoughts and energy.
+**The Energy Bus Book Summary | Synopsis** provides a brief introduction and summary of the ten rules and chapters. The Energy Bus is a book written by Jon Gordon provides ten rules to embrace positivity, improve, and better our lives. Gordon presents ten rules through thirty-four chapters describing the power of positive thoughts and energy.
 
 ---
 
