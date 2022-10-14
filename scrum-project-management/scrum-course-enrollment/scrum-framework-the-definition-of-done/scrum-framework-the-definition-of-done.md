@@ -21,6 +21,9 @@ Scrum Framework: The Definition of Done provides an explanation of how to determ
 
 <br/>
 
+![ Image of a Scrum Framework: The Definition of Done](https://github.com/jasmineMonquieLewis/Linguistic-Written-Works-Of-Artz/blob/44e9749126e12a120ed04f379a984193d1582159/scrum-project-management/scrum-course-enrollment/scrum-framework-the-definition-of-done/assets/scrum-framework-the-definition-of-done.png)
+
+
 Greetings & Salutations Earthlings!
 <br/>
 <br/>
