@@ -8,7 +8,7 @@
 
 <br/> 
 
-Greetings & Salutations Earthlings! 
+Greetings & Salutations Artistik Rebels! 
 <br/> 
 
 I am on a journey of growth and currently read The Entergy Bus. As I read about positivity, I will document and summarize the content in the book. In this *linguistic-written-works-of-artz {L.WWoA}* titled **The Energy Bus Book Summary | Synopsis**, I provide a brief description of chapters and accompany rules with links for easier access to the information. In addition, I include each page per chapter. 
@@ -45,7 +45,7 @@ Table of Rules for The Entergy Bus
 
 ## Rule 1: You're the Driver of Your Bus
 
-![Image Youre the Driver of Your Bus](https://github.com/jasmineMonquieLewis/Linguistic-Written-Works-Of-Artz/blob/the-energy-bus-book/the-energy-bus-book/assets/the-energy-bus-book-summary-rule-1.png)
+![Image Youre the Driver of Your Bus](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Artz/blob/the-energy-bus-book/The-Energy-Bus-Book/assets/the-energy-bus-book-summary-rule-1.png)
 
 Chapters 1 - 6 set up the story of George's flat tire and using public transportation. Chapter 7 contains the first rule.
 <br/> 
@@ -66,7 +66,7 @@ Chapters 1 - 6 set up the story of George's flat tire and using public transport
 
 ## Rule 2: Desire, Vision, and Focus Move Your Bus in the Right Direction
 
-![Image Desire Vision and Focus Move Your Bus in the Right Direction](https://github.com/jasmineMonquieLewis/Linguistic-Written-Works-Of-Artz/blob/the-energy-bus-book/the-energy-bus-book/assets/the-energy-bus-book-summary-rule-2.png)
+![Image Desire Vision and Focus Move Your Bus in the Right Direction](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Artz/blob/The-Energy-Bus-Book/the-energy-bus-book/assets/the-energy-bus-book-summary-rule-2.png)
 
 In chapters 8 – 10, George learns about all matter is energy, shares his vision, and focuses on thinking positively about his product launch of NTG-2000. Chapter 10 contains the second rule.
 <br/> 
@@ -83,7 +83,7 @@ In chapters 8 – 10, George learns about all matter is energy, shares his visio
 
 ## Rule 3: Fuel Your Ride with Positive Energy
 
-![Image Fuel Your Ride with Positive Energy](https://github.com/jasmineMonquieLewis/Linguistic-Written-Works-Of-Artz/blob/the-energy-bus-book/the-energy-bus-book/assets/the-energy-bus-book-summary-rule-3.png)
+![Image Fuel Your Ride with Positive Energy](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Artz/blob/the-energy-bus-book/The-Energy-Bus-Book/assets/the-energy-bus-book-summary-rule-3.png)
 
 In chapters 11 – 13, George learns the energy equation, an anecdote of two dogs, and begins to implement and focus on changing his actions. Chapter 11 contains the third rule.
 <br/>
@@ -135,7 +135,7 @@ TBD
 
 # Conclusion 
 
-In conclusion, I look forward to providing book takeaways, important author quotes, and chapter summaries.  In this *linguistic-written-works-of-artz {L.WWoA}* titled **The Energy Bus Book Summar | Synopsis**, I provide links to a list of rules and summaries and each chapter summary based on accompanying rules. 
+In conclusion, I look forward to providing book takeaways, important author quotes, and chapter summaries.  In this *linguistic-written-works-of-artz {L.WWoA}* titled **The Energy Bus Book Summary | Synopsis**, I provide links to a list of rules and summaries and each chapter summary based on accompanying rules. 
 <br/> 
 <br/> 
 
