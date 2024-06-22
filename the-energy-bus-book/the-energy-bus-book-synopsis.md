@@ -45,7 +45,7 @@ Table of Rules for The Entergy Bus
 
 ## Rule 1: You're the Driver of Your Bus
 
-![Image Youre the Driver of Your Bus](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Artz/blob/the-energy-bus-book/The-Energy-Bus-Book/assets/the-energy-bus-book-summary-rule-1.png)
+![Image Youre the Driver of Your Bus](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Artz/blob/The-Energy-Bus-Book/the-energy-bus-book/assets/the-energy-bus-book-summary-rule-1.png)
 
 Chapters 1 - 6 set up the story of George's flat tire and using public transportation. Chapter 7 contains the first rule.
 <br/> 
@@ -83,7 +83,7 @@ In chapters 8 – 10, George learns about all matter is energy, shares his visio
 
 ## Rule 3: Fuel Your Ride with Positive Energy
 
-![Image Fuel Your Ride with Positive Energy](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Artz/blob/the-energy-bus-book/The-Energy-Bus-Book/assets/the-energy-bus-book-summary-rule-3.png)
+![Image Fuel Your Ride with Positive Energy](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Artz/blob/The-Energy-Bus-Book/the-energy-bus-book/assets/the-energy-bus-book-summary-rule-3.png)
 
 In chapters 11 – 13, George learns the energy equation, an anecdote of two dogs, and begins to implement and focus on changing his actions. Chapter 11 contains the third rule.
 <br/>
