@@ -4,7 +4,7 @@
 
 ---
 
-![Image Youre the Driver of Your Bus](https://github.com/jasmineMonquieLewis/Linguistic-Written-Works-Of-Artz/blob/the-energy-bus-book/the-energy-bus-book/assets/the-energy-bus-book-summary-synopsis.png)
+![Image Youre the Driver of Your Bus](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Artz/blob/The-Energy-Bus-Book/the-energy-bus-book/assets/the-energy-bus-book-summary-synopsis.png)
 
 <br/> 
 
