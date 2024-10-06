@@ -6,7 +6,12 @@ I am on a journey of growth and currently read The Entergy Bus. As I read about 
 # Table of Rules
 Table of Rules for The Entergy Bus 
 
+### Synopsis
+
+<!---
 ### [Synopsis](https://github.com/jasmineMonquieLewis/Linguistic-Written-Works-Of-Artz/blob/the-energy-bus-book/the-energy-bus-book/the-energy-bus-book-summary-synopsis.md)
+-->
+
 ### Rule 1: You're the Driver of Your Bus 
 ### Rule 2: Desire, Vision, and Focus Move Your Bus in the Right Direction
 ### Rule 3: Fuel Your Ride with Positive Energy
