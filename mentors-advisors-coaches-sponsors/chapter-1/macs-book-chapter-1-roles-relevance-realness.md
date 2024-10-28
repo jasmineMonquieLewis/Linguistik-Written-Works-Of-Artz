@@ -1,4 +1,4 @@
-# The M.A.C.S Book: Mentors, Advisors, Coaches & Sponsors | Chapter 1 – Roles, Relevance, and Realness
+# The M.A.C.S [book]: Mentors, Advisors, Coaches & Sponsors | Chapter 1 – Roles, Relevance, and Realness
 
 ---
 
@@ -95,7 +95,7 @@ If you want to get into the right doors and seat at the necessary tables, a spon
 Sponsors are rare. When you can meet a potential sponsor, always allow them to see you at your best.
 
 # The Three C
-For an effective and successful relationship with each of the M.A.C.S Book roles, the individual must possess these three essential qualities: character, compassion, and commitment.
+For an effective and successful relationship with each of the M.A.C.S [book] roles, the individual must possess these three essential qualities: character, compassion, and commitment.
 1.	Character - guided by and have good/moral ethics  
 2.	Compassion - sincere, understanding and empathy towards you and your dreams  
 3.	Commitment - dedicated to your growth and achievement  
@@ -115,7 +115,7 @@ I am the eagle that flies ABOVE. <br/>
 [**Jasmine Monique Lewis**]( https://jasminelewis.tech/) 
 
 
-
+![Image LightBringer Eagle](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Mentors-Advisors-Coaches-Sponsors/assets-general/atkr-lightbringer-eagle_98x111.png)
 
 # References 
  
