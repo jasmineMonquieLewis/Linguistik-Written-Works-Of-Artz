@@ -110,7 +110,7 @@ The LightBringer<br/>
 I am the eagle that flies ABOVE. <br/> 
 <br/> 
  
-<a href="https://jasminelewis.tech/">Jasmine Monique Lewis </a> 
+<!-- <a href="https://jasminelewis.tech/">Jasmine Monique Lewis </a>  -->
  
 [**Jasmine Monique Lewis**]( https://jasminelewis.tech/) 
 
