@@ -122,4 +122,5 @@ I am the eagle that flies ABOVE. <br/>
 [1]  	M. Bergelson, "Famous Protégé] The 4 Mentors That Inspired Steve Jobs," 12 Feburary 2015. [Online]. Available: https://www.geteverwise.com/mentoring/famous-protege-the-4-mentors-that-inspired-steve-jobs/. [Accessed 2018 October 2018]. 
 
 [2]  	J. Reingold, "The Secret Coach," 21 July 2008. [Online]. Available: https://money.cnn.com/2008/07/21/technology/reingold_coach.fortune/index.htm. [Accessed 11 October 2018]. 
+
 [3]  	E. Staff, "Steve Jobs: An Extraordinary Career," [Online]. Available: https://www.entrepreneur.com/article/197538. [Accessed 11 October 2018] 
