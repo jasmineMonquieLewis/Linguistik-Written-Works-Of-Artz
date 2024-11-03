@@ -83,7 +83,7 @@ To determine when to *Brush It Off*, I ask these questions:
 # Conclusion 
 Mentors are individuals that should aid in either your personal and/or professional development. Although they may not agree with everything you believe or aspire to, they should be open and supportive. As aforementioned in my gamer social network story, even though my mentor did not think I possessed the skills to bring my vision to life, she always was available to assist and did not turn me away when I needed her help the most. Sometimes you must *Brush It Off* and keep moving forward. In life, people will say you cannot accomplish your ideas or put limitations on you; it is your responsibility to believe in yourself and focus on your goals. Do not waste time auguring or explaining, *your success will show them*. 
   
-I hope you all learned not to give up and take initiative on your dreams, regardless if a **M** entor, **A** dvisor, **C** oach or **S** ponsor, state otherwise. Until next time! 
+I hope you all learned not to give up and take initiative on your dreams, regardless if a **M**entor, **A**dvisor, **C**oach or **S**ponsor, state otherwise. Until next time! 
   
   
 <ins>***One more thing:***</ins>  *with all human relationships, there are two personalities and two characters, yours and theirs; so get your M.A.C.S [book]!* 
