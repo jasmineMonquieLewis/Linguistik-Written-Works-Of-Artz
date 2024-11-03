@@ -37,7 +37,7 @@ Greetings & Salutations, Artistikk R3b3lls!
 # Series Recap 
 In chapter one, “Roles, Relevance & Realness”, of our series, *M.A.C.S [book]: Mentors, Advisors, Coaches & Sponsors*, we defined each role, its importance and three authenticity qualities, which determine an effective, healthy and successful M.A.C.S relationship, the ‘C’s. 
   
-# Introduction of Chapter 2 - A Tale of Two Mentors 
+# Introduction of Chapter Two A Tale of Two Mentors 
 For chapter two of our M.A.C.S [book] series, we will focus on **M** entors. In A Tale of Two "Mentors", I will demonstrate through parables of my college and entrepreneurship journey, lessons I learned by having two female mentors. Chapter 2 - A Tale of Two "Mentors" is comprising of three separate sub sections: When to Brush Things Off, How or When to Terminate or Take a Break in a Relationship and lastly, The Necessity of Open Communication. In “When to Brush Things Off” section, referred to as *Brush It Off*, we will discuss why and how not to become immersed in minuscule occurrences and lose sight of having mentorship in your life. A **M** entor should be beneficial in your personal and/or professional development. You should have multiple mentors throughout your life because individuals have different skills and expertise. People’s knowledge and experience are not interchangeable; thus, you can learn and acquire a plethora of knowledge and wisdom from others with various backgrounds.  
   
 ## When to Brush Things Off 
