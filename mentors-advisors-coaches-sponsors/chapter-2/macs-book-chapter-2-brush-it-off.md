@@ -23,7 +23,7 @@ For chapter two of our M.A.C.S [book] series, we will focus on Mentors. In A Tal
 
 # Table of Contents 
 1.	[Series Recap](#series-recap)  
-2.	[Introduction of Chapter 2 A Tale of Two Mentors](#introduction-of-chapter-2-a-tale-of-two-mentors) 
+2.	[Introduction of Chapter Two A Tale of Two Mentors](#introduction-of-chapter-two-a-tale-of-two-mentors) 
 3.	[When Others Say It Cant be Done Show Them](when-others-say-it-cant-be-done-show-them) 
 4.	[Dont Let Others Dissuade You](#dont-let-others-dissuade-you) 
 5.	[Determining When to Brush It Off](#determining-when-to-brush-it-off) 
@@ -48,7 +48,7 @@ In this M.A.C.S [book] series, I want my experiences and life lessons to transfo
 *Let the page commencing begin!* 
  
 
-# When Others Say It Can’t be Done, Show Them 
+# When Others Say It Can’t be Done Show Them 
 ## From a Liberal Arts major to a STEAM learner 
 ![Image From a Liberal Arts major to a STEAM learner](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/mentors-advisors-coaches-sponsors/assets/chapter-2/brush-it-off/chap-2-brush-it-off-liberal-arts-steam-learner.png)
 
