@@ -24,7 +24,7 @@ For chapter two of our M.A.C.S [book] series, we will focus on Mentors. In A Tal
 # Table of Contents 
 1.	[Series Recap](#series-recap)  
 2.	[Introduction of Chapter Two A Tale of Two Mentors](#introduction-of-chapter-two-a-tale-of-two-mentors) 
-3.	[When Others Say It Cant be Done Show Them](when-others-say-it-cant-be-done-show-them) 
+3.	[When Others Say It Cant be Done Show Them](#when-others-say-it-cant-be-done-show-them) 
 4.	[Dont Let Others Dissuade You](#dont-let-others-dissuade-you) 
 5.	[Determining When to Brush It Off](#determining-when-to-brush-it-off) 
  
@@ -48,7 +48,7 @@ In this M.A.C.S [book] series, I want my experiences and life lessons to transfo
 *Let the page commencing begin!* 
  
 
-# When Others Say It Can’t be Done Show Them 
+# When Others Say It Cant be Done Show Them 
 ## From a Liberal Arts major to a STEAM learner 
 ![Image From a Liberal Arts major to a STEAM learner](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/mentors-advisors-coaches-sponsors/assets/chapter-2/brush-it-off/chap-2-brush-it-off-liberal-arts-steam-learner.png)
 
@@ -65,7 +65,7 @@ I met the department chair and would regularly seek assistance and guidance on m
 
 For a few days after the occurrence, I was sad, hurt, and disappointed that a department chair would say those words to a Computer Science student. Especially, when we live in a world where billion-dollar companies are created in garages, dorm rooms and high school bedrooms. Nevertheless, I did not let her piercing words prevent me from pursuing my business venture and asking her for assistance. I *brushed it off* and focused on my goal. Before the beginning of my senior year, I was able to develop the client and server-side of a fully functioning, web content management system on my own! Interestingly, even after that conversation of her disapproval, she was always there and continues to guide me.  
   
-# Don’t Let Others Dissuade You 
+# Dont Let Others Dissuade You 
 ## Parable’s Takeaway 
 When you are working on endeavors of great magnitude, people will state you cannot accomplish them. Regardless of their education, experience, or credentials. It is either from their own mindset and philosophy or their experiences and limitations that they have set for you or themselves. The department chair was fully capable of developing a social network, after all she holds a doctorate in Computer Science and has worked at high tech companies, Google and Apple, Inc., just to name a few. The problem arose when she thought my inexperience and current programming skills would prevent me. I did not fault her for it, simply because I believed in myself and the vision.  
   
