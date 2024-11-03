@@ -1,4 +1,4 @@
-# The M.A.C.S [book]: Mentors, Advisors, Coaches & Sponsors | Chapter 1 – Roles, Relevance, and Realness
+# M.A.C.S [book]: Mentors, Advisors, Coaches & Sponsors | Chapter 1 – Roles, Relevance, and Realness
 
 ---
 
@@ -111,7 +111,6 @@ I am the eagle that flies ABOVE. <br/>
 <br/> 
  
 <!-- <a href="https://jasminelewis.tech/">Jasmine Monique Lewis </a>  -->
- 
 © 2024 [**Jasmine Monique Lewis**]( https://jasminelewis.tech/) 
 
 
