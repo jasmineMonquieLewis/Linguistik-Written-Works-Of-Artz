@@ -99,4 +99,4 @@ I am the eagle that flies ABOVE. <br/>
 © 2024 [**Jasmine Monique Lewis**]( https://jasminelewis.tech/) 
  
  
-![Image LightBringer Eagle](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Mentors-Advisors-Coaches-Sponsors/assets-general/atkr-lightbringer-eagle_98x111.png)
+![Image LightBringer Eagle](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/assets-general/atkr-lightbringer-eagle_98x111.png)
