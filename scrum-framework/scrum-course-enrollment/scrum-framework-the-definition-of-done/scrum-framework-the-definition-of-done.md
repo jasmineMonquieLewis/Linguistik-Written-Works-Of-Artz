@@ -6,7 +6,7 @@
 Jasmine Monique Lewis 
 
 ### Originally Written
-
+2022
 
 ### Last Modified
 
@@ -198,5 +198,7 @@ I am the eagle that flies ABOVE.
 <br/>
 
 
-Ⓒ 2022 [**Jasmine Monquie Lewis**]( https://jasminemonquie.tech/)
+Ⓒ 2022 [**Jasmine Monique Lewis**]( https://jasminemonquie.tech/)
 
+
+![Image LightBringer Eagle](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/assets-general/atkr-lightbringer-eagle_98x111.png)

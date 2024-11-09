@@ -11,7 +11,7 @@ October 14, 2018
 ### Last Modified
 October 26, 2024
 
-![Image Chapter 1 – Roles, Relevance, and Realness](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Mentors-Advisors-Coaches-Sponsors/mentors-advisors-coaches-sponsors/assets/chapter-1/chap-1-feature-image-roles-relevance-realness.png)
+![Image Chapter 1 – Roles, Relevance, and Realness](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/mentors-advisors-coaches-sponsors/assets/chapter-1/chap-1-feature-image-roles-relevance-realness.png)
 
 # Excerpt 
 In our M.A.C.S [book]: Mentors, Advisors, Coaches & Sponsors series, we will define each role, discuss how each role can be instrumental in your entrepreneurship success, and how to locate or identify these people in your life. Throughout the series, I will state important lessons or takeaways that can benefit you. In this first chapter, we will introduce and define our M.A.C.S acronym, its relevance and the three qualities each role must possess to be effective.  
@@ -48,7 +48,7 @@ As an ode to visionary Steve Jobs and my mentor from a distance, we will call **
  
 # Mentor
 ## What is a Mentor?
-![Image Mentor](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Mentors-Advisors-Coaches-Sponsors/mentors-advisors-coaches-sponsors/assets/chapter-1/chap-1-mentor.png)
+![Image Mentor](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/mentors-advisors-coaches-sponsors/assets/chapter-1/chap-1-mentor.png)
 
 A Mentor is someone who offers guidance, assistance, professional and emotional support, and possess skills and/or knowledge you seek. You can think of a mentor as a teacher who takes you by the hand and guides you to your destination. A mentor is a person who models what you seek to perform well or become, listen, provide constructive feedback, and invested in your success and growth.  A mentor-mentee (protégé) relationship requires trust, honesty, openness, and mutual respect. Unlike the advisor, coach or sponsor, a mentor <ins>must</ins> know and understand your dreams and goals. More importantly, a mentor is the person you can express vulnerability by sharing your good, bad, and ugly to, without fear of damaging the relationship. 
  
@@ -63,7 +63,7 @@ You must be extremely selective when determining your mentor.
 
 # Advisor
 ## What is an Advisor?
-![Image Advisor](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Mentors-Advisors-Coaches-Sponsors/mentors-advisors-coaches-sponsors/assets/chapter-1/chap-1-advisor.png)
+![Image Advisor](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/mentors-advisors-coaches-sponsors/assets/chapter-1/chap-1-advisor.png)
 
 An Advisor, an individual who have experience or success in you craft or industry, who offers advice on a need-to-know basis. The relationship between an advisor and advisee is usually formal. When you have specific questions or seeking feedback, advisors play a pivotal role in steering you in a wise direction based on their experience. In addition, advisors can facilitate introductions to vital influencers and shakers in your industry.  
  
@@ -75,7 +75,7 @@ Unlike mentors who act as a support system, advisors provide critical guidance t
 
 # Coach
 ## What is a Coach? 
-![Image Coach](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Mentors-Advisors-Coaches-Sponsors/mentors-advisors-coaches-sponsors/assets/chapter-1/chap-1-coach.png)
+![Image Coach](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/mentors-advisors-coaches-sponsors/assets/chapter-1/chap-1-coach.png)
 
 A Coach is someone who improve performance and results. Unlike advisors who provide direction to specific situations or mentors who are support systems, coaches may or may not have personally experienced your desired results, but are trained to generate outcomes in the domain. Coaches assist in clarifying your goals and improving results.
   
@@ -84,7 +84,7 @@ If you want to improve performance or achieve specific results, coaches have str
   
 # Sponsor
 ## What is a Sponsor?
-![Image Sponsor](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Mentors-Advisors-Coaches-Sponsors/mentors-advisors-coaches-sponsors/assets/chapter-1/chap-1-sponsor.png)
+![Image Sponsor](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/mentors-advisors-coaches-sponsors/assets/chapter-1/chap-1-sponsor.png)
 
 A Sponsor is an individual who possess a high level of influence, achievement, and success. A sponsor can connect you to people who can impact your career and capitulate your trajectory. You only share your good and your best with a sponsor. It is pivotal that you let a sponsor know why you are qualified and the best for the job.
  
@@ -114,7 +114,7 @@ I am the eagle that flies ABOVE. <br/>
 © 2024 [**Jasmine Monique Lewis**]( https://jasminelewis.tech/) 
 
 
-![Image LightBringer Eagle](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Mentors-Advisors-Coaches-Sponsors/assets-general/atkr-lightbringer-eagle_98x111.png)
+![Image LightBringer Eagle](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/assets-general/atkr-lightbringer-eagle_98x111.png)
 
 # References 
  

@@ -24,4 +24,4 @@ Jasmine Monique Lewis' Linguistic-Written-Works-Of-Arts {L.WWWoA} is a form of s
 
 # Poetry Workshops
 
-[]()
+[New Orleans Writers Workshop Recap | Surprise!, Or How To Get Started (01/28/2023)]()
