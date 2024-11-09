@@ -1,7 +1,6 @@
 # Jasmine Monique Lewis' Linguistic-Written-Works-Of-Arts {L.WWWoA}
 Jasmine Monique Lewis' Linguistic-Written-Works-Of-Arts {L.WWWoA} is a form of self-expression documented in an article, story, and/or essay. 
 
----
 
 # M.A.C.S [book]: Mentors, Advisors, Coaches & Sponsors
 

@@ -1,7 +1,5 @@
 # New Orleans Writers Workshop Recap | Surprise!, Or How To Get Started (01/28/2023)
 
----
-
 ### Author
 Jasmine Monique Lewis
 
@@ -28,6 +26,7 @@ I want to share the activities of a poetry workshop, New Orleans Writers Worksho
 
 <br/> 
 Greetings & Salutations, Artistikk R3b3lls! 
+<br/>
 <br/>
 
 
@@ -105,7 +104,10 @@ Our activity required us to choose an anaphora and write for twelve minutes. Aft
 ![Image - Poem "I Fly"](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/new-orleans-writers-workshop/surprise-or-how-to-get-started/assets/activities/surprise-or-how-to-get-started-anaphora-i-fly.png)
 
 
-*I Fly*
+<!-- <p style="text-align: center;">*I Fly*</p> -->
+<div align="center">
+    *I Fly*
+</div>
 I fly within systems of solar hoping to learn what I see upon the gust of my arms. 
 I fly into structures that systems fear seeking the glory of what's to come. If clouds could levitate, I fly beneath their skin as bird swings from south to north. 
  
@@ -225,7 +227,10 @@ Our instructor stated we could research Kimiko Han on American Poetry Research f
 ![Image - Poem "Friends Combat: A Zuihitsu"](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/new-orleans-writers-workshop/surprise-or-how-to-get-started/assets/activities/surprise-or-how-to-get-started--zuihitsu-friends-combat.png)
 
 
-*Friends Combat: A Zuihitsu*
+<!-- <p style="text-align: center;"> *Friends Combat: A Zuihitsu*</p> -->
+<div align="center">
+    *Friends Combat: A Zuihitsu*
+</div>
 A young woman sits in her chair in front of brown, black stripped L-Shaped desked purchased from Walmart, sits three 12in black monitors abreast monitor holders with steel black holes. Her monitors are black for their blankness is lost in her thoughts. Texting on an Android phone to a lost friendship hoping to maintain some form of connection to the man she texts. Not anything romantic or erotic, strictly platonic. 
  
 Unemployed, a productive and sporadic mind, skips neurons fighting her thoughts of misunderstanding. Searching for where do I complete a request for a second chance? LaHire differs from my hands to text a friend now lost in the wind. 
@@ -248,6 +253,9 @@ I am the eagle that flies ABOVE. <br/>
  
 ***Jasmine Monique***
 
+<br/> 
+<br/> 
+ 
 
 #### Creativity & Imagination to my Surprise! | Zuihitsu  
 I was unknowledgeable of Zuihitsu poems. Many of my classmates and I found this difficult to write attempting to connect associated ideas, but in a unique way. I started with my home office. In addition, I used an experience as my starting point.  Nevertheless, I am glad I learned a new poem type I did not learn in high school or college. 
