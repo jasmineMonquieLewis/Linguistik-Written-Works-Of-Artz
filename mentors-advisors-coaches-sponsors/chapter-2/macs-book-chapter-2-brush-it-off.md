@@ -9,7 +9,7 @@ November 20, 2018
 ### Last Modified
 November 2, 2024
 
-![Image Chapter 2 - A Tale of Two ‘Mentors’ :: Brush It Off](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/mentors-advisors-coaches-sponsors/assets/chapter-2/brush-it-off/chap-2-feature-image-mentors-brush-it-off.png)
+![Image Chapter 2 - A Tale of Two ‘Mentors’ :: Brush It Off](https://github.com/jasmineMLewis/Articles/blob/Production/mentors-advisors-coaches-sponsors/assets/chapter-2/brush-it-off/chap-2-feature-image-mentors-brush-it-off.png)
 
 
 # Excerpt 
@@ -48,18 +48,18 @@ In this M.A.C.S [book] series, I want my experiences and life lessons to transfo
 
 # When Others Say It Cant be Done Show Them 
 ## From a Liberal Arts major to a STEAM learner 
-![Image From a Liberal Arts major to a STEAM learner](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/mentors-advisors-coaches-sponsors/assets/chapter-2/brush-it-off/chap-2-brush-it-off-liberal-arts-steam-learner.png)
+![Image From a Liberal Arts major to a STEAM learner](https://github.com/jasmineMLewis/Articles/blob/Production/mentors-advisors-coaches-sponsors/assets/chapter-2/brush-it-off/chap-2-brush-it-off-liberal-arts-steam-learner.png)
 
 I enrolled in college as an English major with a decisive dream to attend law school and own/operate a legal practice. However, after an excruciatingly boring internship at New Orleans Civil District Court, I was inspired by my love of Yu-Gi-Oh!, a trading card game revered for its intensive strategy and game mechanics, to create a gamer social network. Ignorant of how to begin, I networked in my business courses and discovered Computer Information Systems, a Computer Science major with a Business Administration minor. Initially my obsession to create a gamer social network was the catalyst for learning Computer Science, however, I became in love with its analytics, creativity, complexity, and utility, especially programming. With tenacity and motivation to fulfill my new dream, I began teaching myself full stack web development. Using books, blogs, and YouTube videos to learn HTML, CSS, PHP, and SQL. Because I lacked internet access at home, I would spend time in between classes and late nights at school, teaching myself full stack. 
  
   
 ## A Naïve Novice’s Big Dream Pierced with Harsh Words 
-![Image A Naïve Novice’s Big Dream Pierced with Harsh Words](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/mentors-advisors-coaches-sponsors/assets/chapter-2/brush-it-off/chap-2-brush-it-off-big-dream-harsh-words.png)
+![Image A Naïve Novice’s Big Dream Pierced with Harsh Words](https://github.com/jasmineMLewis/Articles/blob/Production/mentors-advisors-coaches-sponsors/assets/chapter-2/brush-it-off/chap-2-brush-it-off-big-dream-harsh-words.png)
 
 I met the department chair and would regularly seek assistance and guidance on my software business venture. Anytime I asked, she would help debug errors that I did not understand, guide me in the necessary directions and provide resources. However, as a novice and naïve freshman, teaching myself a computer language the school offered seniors, she would always state to wait until I take higher level courses. Unfazed, I continued studying, learning, and asking. On one occasion, I copied an entire block of code from a beginner's book to learn to get it to work with my database. As legend had it, it did not and I received multiple errors. I attempted debugging, but to no avail. Of course, I asked my mentor for assistance. Frustrated by my impatience to wait until enrolling in the database course, she bluntly stated "You cannot build this. I am telling you; it can't be done." Those words pierced my heart deeper than the death of a beloved mother's weeping for her children. I barely held back tears from streaming down my face.  
   
 ## From Novice to Proficient in Midst of Heartache 
-![Image From Novice to Proficient in Midst of Heartache](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/mentors-advisors-coaches-sponsors/assets/chapter-2/brush-it-off/chap-2-brush-it-off-novice-to-proficient.png)
+![Image From Novice to Proficient in Midst of Heartache](https://github.com/jasmineMLewis/Articles/blob/Production/mentors-advisors-coaches-sponsors/assets/chapter-2/brush-it-off/chap-2-brush-it-off-novice-to-proficient.png)
 
 For a few days after the occurrence, I was sad, hurt, and disappointed that a department chair would say those words to a Computer Science student. Especially, when we live in a world where billion-dollar companies are created in garages, dorm rooms and high school bedrooms. Nevertheless, I did not let her piercing words prevent me from pursuing my business venture and asking her for assistance. I *brushed it off* and focused on my goal. Before the beginning of my senior year, I was able to develop the client and server-side of a fully functioning, web content management system on my own! Interestingly, even after that conversation of her disapproval, she was always there and continues to guide me.  
   
@@ -97,4 +97,4 @@ I am the eagle that flies ABOVE. <br/>
 © 2024 [**Jasmine Monique Lewis**]( https://jasminelewis.tech/) 
  
  
-![Image LightBringer Eagle](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/assets-general/atkr-lightbringer-eagle_98x111.png)
+![Image LightBringer Eagle](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/atkr-lightbringer-eagle_98x111.png)
