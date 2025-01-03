@@ -7,7 +7,7 @@ Jasmine Monique Lewis
 November 8, 2024
 
 
-![Image - New Orleans Writers Workshop Recap | Surprise!, Or How To Get Started (01/28/2023)](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/new-orleans-writers-workshop/surprise-or-how-to-get-started/assets/title-table-of-activities/surprise-or-how-to-get-started-feature-image.png)
+![Image - New Orleans Writers Workshop Recap | Surprise!, Or How To Get Started (01/28/2023)](https://github.com/jasmineMLewis/Articles/blob/Production/new-orleans-writers-workshop/surprise-or-how-to-get-started/assets/title-table-of-activities/surprise-or-how-to-get-started-feature-image.png)
 
 # Excerpt 
 I want to share the activities of a poetry workshop, New Orleans Writers Workshop titled *Surprise!, or How To Get Started* , I participated in last year. As I perfect my writing craft, I enjoy exploring and learning different mediums of self-expression. At the of age nine, and greatly influenced by hip hop emcees, I became mesmerize by shaping words into images in rhythmic form. However, as an uneducated youth of hip hop culture, I was unaware that rap is poetry to a beat. But, as I matured, I learned to love poetry and what it has to offer the human soul and experience.
@@ -49,7 +49,7 @@ During our instructors' poetry workshop, he focused on six activities with an ar
 Each of the six activities allowed us to explore poem types or elements. I have included my own work for each activity to provide an example. Each poem are drafts from the course and are not complete works. 
 
  
-![Image - Activities Table of Contents](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/new-orleans-writers-workshop/surprise-or-how-to-get-started/assets/title-table-of-activities/surprise-or-how-to-get-started-table-of-activities.png)
+![Image - Activities Table of Contents](https://github.com/jasmineMLewis/Articles/blob/Production/new-orleans-writers-workshop/surprise-or-how-to-get-started/assets/title-table-of-activities/surprise-or-how-to-get-started-table-of-activities.png)
 
 ## Activity I: One Word, One Poetry Line 
 The first activity required ***each participant to choose a word from a strip of paper and make it into a single poetry line.*** 
@@ -101,7 +101,7 @@ Our activity required us to choose an anaphora and write for twelve minutes. Aft
 ### My "I fly"  Anaphora Poem 
 #### NOTE: Poem not edited from poetry workshop 
 
-![Image - Poem "I Fly"](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/new-orleans-writers-workshop/surprise-or-how-to-get-started/assets/activities/surprise-or-how-to-get-started-anaphora-i-fly.png)
+![Image - Poem "I Fly"](https://github.com/jasmineMLewis/Articles/blob/Production/new-orleans-writers-workshop/surprise-or-how-to-get-started/assets/activities/surprise-or-how-to-get-started-anaphora-i-fly.png)
 
 
 <!-- <p style="text-align: center;">*I Fly*</p> -->
@@ -224,7 +224,7 @@ Our instructor stated we could research Kimiko Han on American Poetry Research f
 ##### NOTE: Poem not edited from poetry workshop 
 
 
-![Image - Poem "Friends Combat: A Zuihitsu"](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/new-orleans-writers-workshop/surprise-or-how-to-get-started/assets/activities/surprise-or-how-to-get-started--zuihitsu-friends-combat.png)
+![Image - Poem "Friends Combat: A Zuihitsu"](https://github.com/jasmineMLewis/Articles/blob/Production/new-orleans-writers-workshop/surprise-or-how-to-get-started/assets/activities/surprise-or-how-to-get-started--zuihitsu-friends-combat.png)
 
 
 <!-- <p style="text-align: center;"> *Friends Combat: A Zuihitsu*</p> -->
@@ -318,4 +318,4 @@ I am the eagle that flies ABOVE. <br/>
 © 2024 [**Jasmine Monique Lewis**]( https://jasminelewis.tech/)
 
 
-![Image LightBringer Eagle](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/assets-general/atkr-lightbringer-eagle_98x111.png)
+![Image LightBringer Eagle](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/atkr-lightbringer-eagle_98x111.png)

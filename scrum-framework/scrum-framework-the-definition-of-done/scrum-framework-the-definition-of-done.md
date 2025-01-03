@@ -9,7 +9,7 @@ Jasmine Monique Lewis
 ### Last Modified
 
 
-![Image -Scrum Framework: The Definition of Done](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/scrum-framework/scrum-course-enrollment/scrum-framework-the-definition-of-done/assets/scrum-framework-the-definition-of-done.png)
+![Image - Scrum Framework: The Definition of Done](https://github.com/jasmineMLewis/Articles/blob/Production/scrum-framework/scrum-framework-the-definition-of-done/assets/scrum-framework-the-definition-of-done.png)
 
 
 
@@ -199,4 +199,4 @@ I am the eagle that flies ABOVE.
 Ⓒ 2022 [**Jasmine Monique Lewis**]( https://jasminemonquie.tech/)
 
 
-![Image LightBringer Eagle](https://github.com/jasmineMLewis/Linguistic-Written-Works-Of-Arts/blob/Production/assets-general/atkr-lightbringer-eagle_98x111.png)
+![Image LightBringer Eagle](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/atkr-lightbringer-eagle_98x111.png)
