@@ -11,7 +11,7 @@ December 31, 2024
 
 
 # Excerpt 
-Currently, I am pursuing my SCRUMstudy's Scum Fundamentals Certification (SFCTM). I am taking this course and exam because it introduces the Scrum framework. Scrum is a framework within Agile methodology more commonly used than Waterfall. In this article titled ***Scrum Fundamentals Certification (SFCTM) | Notes - Part I:  Introduction***, I provide a synopsis of the exam and overview of Scrum, including definition and benefits. 
+Currently, I am pursuing my SCRUMstudy's Scum Fundamentals Certification (SFCTM). I am taking this course and exam because it introduces the Scrum framework. Scrum is a framework within Agile methodology more commonly used than Waterfall. In this article titled ***Scrum Fundamentals Certification (SFC) | Notes - Part I:  Introduction***, I provide a synopsis of the exam and overview of Scrum, including definition and benefits. 
 
 <br/> 
 <br/> 
@@ -31,7 +31,7 @@ Greetings & Salutations, Artistikk R3b3lls!
 
 
 # Notes Overview
-Currently, I am pursuing my SCRUMstudy's Scum Fundamentals Certification (SFCTM). I am taking this course and exam because it introduces the Scrum framework. Scrum is a framework within Agile methodology more commonly used than Waterfall. In this article titled ***Scrum Fundamentals Certification (SFCTM)  | Notes - Part I:  Introduction***, I provide a synopsis of the exam and overview of Scrum, including definition and benefits. 
+Currently, I am pursuing my SCRUMstudy's Scum Fundamentals Certification (SFC). I am taking this course and exam because it introduces the Scrum framework. Scrum is a framework within Agile methodology more commonly used than Waterfall. In this article titled ***Scrum Fundamentals Certification (SFC)  | Notes - Part I:  Introduction***, I provide a synopsis of the exam and overview of Scrum, including definition and benefits. 
 
 # Notes Contents 
 My SFCTM Exam Notes are comprised of five sections:
@@ -71,7 +71,7 @@ The exam format consists of the following:
 •	Can be attempted multiple times for free
 
 # Overview of Scrum
-![Image Scrum's 7 Impediments)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scum-fundamentals-certification/part-i-introduction-impediments.png)
+![Image Scrum's 7 Impediments)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scum-fundamentals-certification/assets/part-i-intoduction/part-i-introduction-impediments.png)
 
 A Scrum project involves a collaborative effort to create a new product, service, or other result as defined in the Project Vision Statement. Projects are impacted by impediments that makes it difficult for teams to plan, implement, manage, and deliver. Project impediments include the following: 
 1.	Time 
@@ -86,25 +86,25 @@ A Scrum project involves a collaborative effort to create a new product, service
 ## What is Scrum?
 Scrum is one of the most popular Agile methodologies. It delivers value throughout a project expeditiously due to its adaptative, iterative, fast, flexible, and effective framework.
 
-![Image Scrum's 16 Benefits)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scum-fundamentals-certification/part-i-introduction-benefits.png)
+![Image Scrum's 16 Benefits)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scum-fundamentals-certification/assets/part-i-intoduction/part-i-introduction-benefits.png)
 
 
 # Benefits
 Scrum consist of 16 benefits. The benefits are the following: 
-1.	Adaptability 
+1.	Adaptability
 2.	Transparency 
-3.	Continuous Feedback 
-4.	Continuous Improvement 
-5.	Continuous Delivery of Value 
-6.	Sustainable Pace 
-7.	Early Delivery of High Value 
+3.	Continuous Feedback
+4.	Continuous Improvement
+5.	Continuous Delivery of Value
+6.	Sustainable Pace
+7.	Early Delivery of High Value
 8.	Efficient Development Process 
-9.	Motivation 
-10.	Faster Problem Resolution 
-11.	Effective Deliverables 
-12.	Customer Centric 
-13.	High Trust Environment 
-14.	Collective Ownership 
+9.	Motivation
+10.	Faster Problem Resolution
+11.	Effective Deliverables
+12.	Customer Centric
+13.	High Trust Environment
+14.	Collective Ownership
 15.	High Velocity
 16.	Innovative Environment
 
@@ -158,7 +158,7 @@ The Retrospect Sprint and Retrospect Project processes create an environment of 
  
  
 # Conclusion
-I highly recommend anyone interested in learning the process of software development or project management to take SCRUMstudy's Scum Fundamentals Certification (SFCTM) exam. In this section, ***Scrum Fundamentals Certification (SFCTM) | Notes - Part I:  Introduction***, I provided a synopsis of the exam and overview of Scrum, including definition and benefits. 
+I highly recommend anyone interested in learning the process of software development or project management to take SCRUMstudy's Scum Fundamentals Certification (SFC) exam. In this section, ***Scrum Fundamentals Certification (SFC) | Notes - Part I:  Introduction***, I provided a synopsis of the exam and overview of Scrum, including definition and benefits. 
  
  
 <ins>***Until next time:***</ins>  *learning Scrum methodology will assist you in completing all types of projects, not only software applications.* 
