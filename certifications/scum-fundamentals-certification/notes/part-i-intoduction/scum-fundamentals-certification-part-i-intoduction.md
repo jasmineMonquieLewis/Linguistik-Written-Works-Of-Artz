@@ -7,7 +7,7 @@ Jasmine Monique Lewis
 December 31, 2024
 
 
-![Image - ScrumStudy’s Scrum Fundamentals Certification (SFC) | Notes - Part I: Introduction)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scum-fundamentals-certification/assets/part-i-introduction-impediments.png)
+![Image - ScrumStudy’s Scrum Fundamentals Certification (SFC) | Notes - Part I: Introduction)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scum-fundamentals-certification/assets/part-i-intoduction/part-i-introduction-impediments.png)
 
 
 # Excerpt 
