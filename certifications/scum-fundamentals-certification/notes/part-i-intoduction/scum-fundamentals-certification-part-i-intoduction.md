@@ -86,10 +86,10 @@ A Scrum project involves a collaborative effort to create a new product, service
 ## What is Scrum?
 Scrum is one of the most popular Agile methodologies. It delivers value throughout a project expeditiously due to its adaptative, iterative, fast, flexible, and effective framework.
 
-![Image Scrum's 16 Benefits)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scum-fundamentals-certification/assets/part-i-intoduction/part-i-introduction-benefits.png)
-
 
 # Benefits
+![Image Scrum's 16 Benefits)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scum-fundamentals-certification/assets/part-i-intoduction/part-i-introduction-benefits.png)
+
 Scrum consist of 16 benefits. The benefits are the following: 
 1.	Adaptability
 2.	Transparency 
