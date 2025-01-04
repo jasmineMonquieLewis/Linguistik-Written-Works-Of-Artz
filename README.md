@@ -26,6 +26,19 @@ Jasmine Monique Lewis' Articles is a form of self-expression documented in an ar
 1. [Scrum Framework: The Definition of Done](https://github.com/jasmineMLewis/Articles/blob/Production/scrum-framework/scrum-framework-the-definition-of-done/scrum-framework-the-definition-of-done.md)
 
 
+---
+
+
+# Scrum Certifications
+
+## Articles | 1
+
+![Image - ScrumStudy’s Scrum Fundamentals Certification (SFC) | Notes - Part I: Introduction)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scum-fundamentals-certification/assets/part-i-intoduction/part-i-introduction-impediments.png)
+
+
+1. [ScrumStudy’s Scrum Fundamentals Certification (SFC) | Notes - Part I: Introduction](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scum-fundamentals-certification/notes/part-i-intoduction/scum-fundamentals-certification-part-i-intoduction.md)
+
+
 
 ----
 
