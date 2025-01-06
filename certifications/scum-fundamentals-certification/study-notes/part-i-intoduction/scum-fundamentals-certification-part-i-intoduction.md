@@ -11,18 +11,24 @@ December 31, 2024
 
 
 # Excerpt 
-I am pursuing my SCRUMstudy's Scum Fundamentals Certification (SFC). I am taking this course and exam because it introduces the Scrum framework. Scrum is a framework within agile methodology commonly used more than Waterfall. In this article titled ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I: Introduction***, I provide a synopsis of the examination, an overview of scrum, its benefits, and impediments.
+I am pursuing my SCRUMstudy's Scum Fundamentals Certification (SFC). I am taking this course and exam because it 
+introduces the Scrum framework. Scrum is a framework within agile methodology commonly used more than
+Waterfall. In this article titled ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I: Introduction***, 
+I provide a synopsis of the examination, an overview of scrum, its benefits, and impediments.
 
 <br/> 
 <br/> 
 
+---
 
 # Table of Contents 
-1. [Study Notes Overview](#study-notes-overview)	
+1. [Study Notes Overview](#study-notes-overview)
 2. [Scrum Fundamentals Certification](#scrum-fundamentals-certification)
 3. [Overview of Scrum](#overview-of-scrum)
 4. [Benefits](#benefits)
 5. [Conclusion](#conclusion)
+
+---
 
 
 <br/>
@@ -32,7 +38,10 @@ Greetings & Salutations, Artistikk R3b3lls!
 
 
 # Study Notes Overview
-I am pursuing my SCRUMstudy's Scum Fundamentals Certification (SFC). I am taking this course and exam because it introduces the Scrum framework. Scrum is a framework within agile methodology commonly used more than Waterfall. In this article titled ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I: Introduction***, I provide a synopsis of the examination, an overview of scrum, its benefits, and impediments.
+I am pursuing my SCRUMstudy's Scum Fundamentals Certification (SFC). I am taking this course and exam 
+because it introduces the Scrum framework. Scrum is a framework within agile methodology commonly used more 
+than Waterfall. In this article titled ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I: Introduction***, 
+I provide a synopsis of the examination, an overview of scrum, its benefits, and impediments.
 
 ## Study Notes Contents
 My SFC Exam Study Notes are comprised of seven articles:
@@ -58,6 +67,10 @@ As I study to receive the SCRUMstudy's Scum Fundamentals Certification, I will c
  
 *Let the page-turning commence!*
 
+<br/>
+
+---
+
 # Scrum Fundamentals Certification
 The Scrum Fundamentals Certification (SFC) is an introductory certification for individuals interested in learning project and software development processes using Agile methodology. The SFC is provided by SCRUMstudy – the Global Accreditation Body for Scrum and Agile Certifications. There are not any prerequisites for experience or education to prepare for the course. An additional benefit of acquiring this certification is its valid for a lifetime.
 
@@ -78,6 +91,10 @@ The exam format consists of the following:
 •	Scum Aspects
 •	Scrum Phases
 •	Organizations
+
+<br/>
+
+---
 
 # Overview of Scrum
 ![Image Scrum's 7 Impediments)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scum-fundamentals-certification/assets/part-i-intoduction/part-i-introduction-impediments.png)
@@ -103,11 +120,15 @@ A Scrum project involves a collaborative effort to create a new product, service
 6.	Organizational Capabilities
 7.	Other limitations
 
+<br/>
+
+---
 
 # Benefits
 ![Image Scrum's 16 Benefits)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scum-fundamentals-certification/assets/part-i-intoduction/part-i-introduction-benefits.png)
 
-Scrum consist of 16 benefits. The benefits are the following: 
+## Benefits
+Scrum consist of 16 benefits. The benefits are the following:
 1.	Adaptability
 2.	Transparency 
 3.	Continuous Feedback
@@ -124,6 +145,8 @@ Scrum consist of 16 benefits. The benefits are the following:
 14.	Collective Ownership
 15.	High Velocity
 16.	Innovative Environment
+
+<br/>
 
 ### Adaptability
 Empirical Process Control and Iterative Delivery make projects adaptable and open to incorporating change. 
@@ -173,12 +196,20 @@ A collaborative framework enables highly skilled cross-functional teams to achie
 ### Innovative Environment 
 The Retrospect Sprint and Retrospect Project processes create an environment of introspection, learning, and adaptability leading to an innovative and creative work environment. 
  
- 
+<br/>
+
+---
+
 # Conclusion
-I highly recommend anyone interested in learning the process of software development or project management to take SCRUMstudy's Scum Fundamentals Certification (SFC) exam. In this section, ***Scrum Fundamentals Certification (SFC) | Notes - Part I:  Introduction***, I provided a synopsis of the examination, an overview of scrum, its benefits, and impediments. 
+I highly recommend anyone interested in learning the process of software development or project management to take
+SCRUMstudy's Scum Fundamentals Certification (SFC) exam. In this section, 
+***Scrum Fundamentals Certification (SFC) | Notes - Part I:  Introduction***, I provided a synopsis of the examination, 
+an overview of scrum, its benefits, and impediments. 
  
+<br/>
  
-<ins>***Until next time:***</ins> *learning Scrum methodology will assist you in completing all types of projects, not only software applications.*
+<ins>***Until next time:***</ins> *learning Scrum methodology will assist you in completing all types of projects,
+not only software applications.*
 
 
 *Signed*<br/>

@@ -1,16 +1,16 @@
-# Jasmine Monique Lewis'Articles
+# Jasmine Monique Lewis' Articles
 Jasmine Monique Lewis' Articles is a form of self-expression documented in an article, story, and/or essay. 
 
 
 # M.A.C.S [book]: Mentors, Advisors, Coaches & Sponsors
 
-![Image Chapter 1 – Roles, Relevance, and Realness](https://github.com/jasmineMLewis/Articles/blob/Production/mentors-advisors-coaches-sponsors/assets/chapter-1/chap-1-feature-image-roles-relevance-realness.png)
+![Image M.A.C.S [book]: Chapter 1 – Roles, Relevance, and Realness](https://github.com/jasmineMLewis/Articles/blob/Production/mentors-advisors-coaches-sponsors/assets/chapter-1/chap-1-feature-image-roles-relevance-realness.png)
 
 ## Articles | 2
 
-1. [Chapter 1 – Roles, Relevance, and Realness](https://github.com/jasmineMLewis/Articles/blob/Production/mentors-advisors-coaches-sponsors/chapter-1/macs-book-chapter-1-roles-relevance-realness.md)
+1. [M.A.C.S [book]: Chapter 1 – Roles, Relevance, and Realness](https://github.com/jasmineMLewis/Articles/blob/Production/mentors-advisors-coaches-sponsors/chapter-1/macs-book-chapter-1-roles-relevance-realness.md)
 
-2. [Chapter 2 - A Tale of Two 'Mentors' :: Brush It Off](https://github.com/jasmineMLewis/Articles/blob/Production/mentors-advisors-coaches-sponsors/chapter-2/macs-book-chapter-2-brush-it-off.md)
+2. [M.A.C.S [book]: Chapter 2 - A Tale of Two 'Mentors' :: Brush It Off](https://github.com/jasmineMLewis/Articles/blob/Production/mentors-advisors-coaches-sponsors/chapter-2/macs-book-chapter-2-brush-it-off.md)
 
 
 ---
@@ -20,7 +20,7 @@ Jasmine Monique Lewis' Articles is a form of self-expression documented in an ar
 
 ## Articles | 1
 
-![Image -Scrum Framework: The Definition of Done](https://github.com/jasmineMLewis/Articles/blob/Production/scrum-framework/scrum-framework-the-definition-of-done/assets/scrum-framework-the-definition-of-done.png)
+![Image - Scrum Framework: The Definition of Done](https://github.com/jasmineMLewis/Articles/blob/Production/scrum-framework/scrum-framework-the-definition-of-done/assets/scrum-framework-the-definition-of-done.png)
 
 
 1. [Scrum Framework: The Definition of Done](https://github.com/jasmineMLewis/Articles/blob/Production/scrum-framework/scrum-framework-the-definition-of-done/scrum-framework-the-definition-of-done.md)
