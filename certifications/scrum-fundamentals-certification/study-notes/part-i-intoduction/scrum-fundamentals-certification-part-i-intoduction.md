@@ -1,17 +1,20 @@
 # ScrumStudy’s Scrum Fundamentals Certification (SFC) | Study Notes - Part I: Introduction
 
+# Article Details
 ### Author
 Jasmine Monique Lewis
 
 ### Originally Written
 December 31, 2024
 
+### Last Modified
+January 10, 2025
 
-![Image - ScrumStudy’s Scrum Fundamentals Certification (SFC) | Study Notes - Part I: Introduction)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scum-fundamentals-certification/assets/part-i-intoduction/part-i-introduction-impediments.png)
+![Image - ScrumStudy’s Scrum Fundamentals Certification (SFC) | Study Notes - Part I: Introduction)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-i-intoduction/part-i-introduction-impediments.png)
 
 
 # Excerpt 
-I am pursuing my SCRUMstudy's Scum Fundamentals Certification (SFC). I am taking this course and exam because it 
+I am pursuing my SCRUMstudy's Scrum Fundamentals Certification (SFC). I am taking this course and exam because it 
 introduces the Scrum framework. Scrum is a framework within agile methodology commonly used more than
 Waterfall. In this article titled ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I: Introduction***, 
 I provide a synopsis of the examination, an overview of scrum, its benefits, and impediments.
@@ -19,17 +22,23 @@ I provide a synopsis of the examination, an overview of scrum, its benefits, and
 <br/> 
 <br/> 
 
+# Subtitle
+Learn about SCRUMstudy’s Scrum Fundamentals Certification (SFC) synopsis, overview of scrum, its principles, aspects, phases, benefits, and impediments.
+
 ---
 
 # Table of Contents 
 1. [Study Notes Overview](#study-notes-overview)
 2. [Scrum Fundamentals Certification](#scrum-fundamentals-certification)
 3. [Overview of Scrum](#overview-of-scrum)
-4. [Benefits](#benefits)
-5. [Conclusion](#conclusion)
+4. [Scrum Components](#scrum-components)
+5. [Scrum Principles](#scrum-principles)
+6. [Scrum Aspects](#scrum-aspects)
+7. [Scrum Phases](#scrum-phases)
+8. [Benefits](#benefits)
+9. [Conclusion](#conclusion)
 
 ---
-
 
 <br/>
 Greetings & Salutations, Artistikk R3b3lls!
@@ -37,7 +46,7 @@ Greetings & Salutations, Artistikk R3b3lls!
 <br/>
 
 # Study Notes Overview
-I am pursuing my SCRUMstudy's Scum Fundamentals Certification (SFC). I am taking this course and exam 
+I am pursuing my SCRUMstudy's Scrum Fundamentals Certification (SFC). I am taking this course and exam 
 because it introduces the Scrum framework. Scrum is a framework within agile methodology commonly used more 
 than Waterfall. In this article titled ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I: Introduction***, 
 I provide a synopsis of the examination, an overview of scrum, its benefits, and impediments.
@@ -62,7 +71,7 @@ My SFC Exam Study Notes are comprised of seven articles:
 
 <br/>
 
-As I study to receive the SCRUMstudy's Scum Fundamentals Certification, I will compile notes into a articles articles and share them with everyone. Yep-pey :)
+As I study to receive the SCRUMstudy's Scrum Fundamentals Certification, I will compile notes into a articles articles and share them with everyone. Yep-pey :)
  
 *Let the page-turning commence!*
 
@@ -86,8 +95,8 @@ The exam format consists of the following:
 
 ## Examination Topics
 The exam format consists of the following:
-•	Scum Principles
-•	Scum Aspects
+•	Scrum Principles
+•	Scrum Aspects
 •	Scrum Phases
 •	Organizations
 
@@ -96,7 +105,7 @@ The exam format consists of the following:
 ---
 
 # Overview of Scrum
-![Image Scrum's 7 Impediments)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scum-fundamentals-certification/assets/part-i-intoduction/part-i-introduction-impediments.png)
+![Image Scrum's 7 Impediments)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-i-intoduction/part-i-introduction-impediments.png)
 
 
 ## Agile Methodologies
@@ -217,7 +226,7 @@ I am the eagle that flies ABOVE. <br/>
 <br/>
  
 <!-- <a href="https://jasminelewis.tech/">Jasmine Monique Lewis </a>  -->
-© 2025 [**Jasmine Monique Lewis**]( https://jasminelewis.tech/)
+[**Jasmine Monique Lewis**]( https://jasminelewis.tech/)
 
 
 ![Image LightBringer Eagle](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/logos/atkr-lightbringer-eagle_98x111.png)
