@@ -10,7 +10,7 @@ December 31, 2024
 ### Last Modified
 January 10, 2025
 
-![Image -Introduction](hhttps://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-i-intoduction/sfc-part-i-title-introduction.png)
+![Image -Introduction](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-i-intoduction/sfc-part-i-title-introduction.png)
 
 
 # Excerpt 
