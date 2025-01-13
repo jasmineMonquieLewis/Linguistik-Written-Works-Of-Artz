@@ -36,7 +36,6 @@ Greetings & Salutations, Artistikk R3b3lls!
 <br/>
 <br/>
 
-
 # Study Notes Overview
 I am pursuing my SCRUMstudy's Scum Fundamentals Certification (SFC). I am taking this course and exam 
 because it introduces the Scrum framework. Scrum is a framework within agile methodology commonly used more 
@@ -221,4 +220,4 @@ I am the eagle that flies ABOVE. <br/>
 © 2025 [**Jasmine Monique Lewis**]( https://jasminelewis.tech/)
 
 
-![Image LightBringer Eagle](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/atkr-lightbringer-eagle_98x111.png)
+![Image LightBringer Eagle](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/logos/atkr-lightbringer-eagle_98x111.png)
