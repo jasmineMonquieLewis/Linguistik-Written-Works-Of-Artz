@@ -46,18 +46,22 @@ Greetings & Salutations, Artistikk R3b3lls!
 <br/>
 
 # Study Notes Overview
-I am pursuing my SCRUMstudy's Scrum Fundamentals Certification (SFC). I am taking this course and exam 
+I am pursuing my SCRUMstudy's [Scum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified). I am taking this course and exam 
 because it introduces the Scrum framework. Scrum is a framework within agile methodology commonly used more 
 than Waterfall. In this article titled ***Scrum Fundamentals Certification (SFC) | Study Notes - Part I: Introduction***, 
 I provide a synopsis of the examination, an overview of scrum, its benefits, and impediments.
 
+<ins>***Note***<ins> or <u>***Note***</u> 
+All Scrum definitions, images, and related text in the [Scrum Book of Knowledge (SBOK) [Scrum Book of Knowledge (SBOK) [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) ](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) are taken from SCRUMstudy, a brand of VMEdu, Inc courses. Content obtained from the SBOK will state the page for reference. This is article is intended for informational and educational purposes.
+
+
 ## Study Notes Contents
 My SFC Exam Study Notes are comprised of seven articles:
 1. <ins>***Part I: Introduction***<ins>
-2. Part II: Principles
+2. Part II: Scrum Principles
 3. Part III: Scrum Aspects
-4. Part IV:  Scrum Phases
-5. Part V: Organizations
+4. Part IV: Scrum Phases & Phases
+5. Part V: Scaling Scrum
 6. Part VI: Practice Test
     - Practice Test 1.1
 	- Practice Test 1.2 
@@ -71,7 +75,7 @@ My SFC Exam Study Notes are comprised of seven articles:
 
 <br/>
 
-As I study to receive the SCRUMstudy's Scrum Fundamentals Certification, I will compile notes into a articles articles and share them with everyone. Yep-pey :)
+As I study to complete the SCRUMstudy's Scrum Fundamentals Certification, I will compile notes into a articles articles and share them with everyone. Yep-pey :)
  
 *Let the page-turning commence!*
 
@@ -80,7 +84,7 @@ As I study to receive the SCRUMstudy's Scrum Fundamentals Certification, I will 
 ---
 
 # Scrum Fundamentals Certification
-The Scrum Fundamentals Certification (SFC) is an introductory certification for individuals interested in learning project and software development processes using Agile methodology. The SFC is provided by SCRUMstudy – the Global Accreditation Body for Scrum and Agile Certifications. There are not any prerequisites for experience or education to prepare for the course. An additional benefit of acquiring this certification is its valid for a lifetime.
+The [Scum Fundamentals Certification (SFC)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) is an introductory certification for individuals interested in learning project and software development processes using Agile methodology. The SFC is provided by SCRUMstudy – the Global Accreditation Body for Scrum and Agile Certifications. There are not any prerequisites for experience or education to prepare for the course. An additional benefit of acquiring this certification is its valid for a lifetime.
 
 ## Examination Format
 The exam format consists of the following:
@@ -97,15 +101,14 @@ The exam format consists of the following:
 The exam format consists of the following:
 •	Scrum Principles
 •	Scrum Aspects
-•	Scrum Phases
-•	Organizations
+•	Scrum Phases & Processes
 
 <br/>
 
 ---
 
 # Overview of Scrum
-![Image Scrum's 7 Impediments)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-i-intoduction/part-i-introduction-impediments.png)
+![Image Scrum's 7 Impediments)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-i-intoduction/sfc-part-i-introduction-impediments.png)
 
 
 ## Agile Methodologies
@@ -128,12 +131,66 @@ A Scrum project involves a collaborative effort to create a new product, service
 6.	Organizational Capabilities
 7.	Other limitations
 
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | page 2
+
 <br/>
 
 ---
 
+# Scrum Components
+
+
+
+## Scrum Components 
+Scrum consist of three primary components: principles, aspects, and phases. SCRUMstudy's Scrum Body of Knowledge, SBOK Guide is divided the into three areas: 
+•	Principles (Chapter 2)
+•	Aspects (Chapters 3 – 7)
+•	Phases (Chapters 8-– 12)
+ 
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | page 7 
+ 
+## Scrum Principles 
+Scrum consists of six principles:
+•	Empirical Process Control 
+•	Self-Organization 
+•	Collaboration 
+•	Value-based Prioritization 
+•	Time-boxing 
+•	Iterative Development 
+ 
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | page 9
+
+## Scrum Aspects
+Scrum consists of five aspects:
+•	Organization
+•	Business Justification
+•	Quality
+•	Change
+•	Risk
+ 
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | page 11 - 14
+ 
+## Scrum Phases
+Scrum consists of five phases: 
+•	Initiate
+•	Plan and Estimate
+•	Implement
+•	Review and Retrospect
+•	Release
+ 
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | page 15
+
+<br/> 
+
+
+
+
+
+
+---
+
 # Benefits
-![Image Scrum's 16 Benefits)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scum-fundamentals-certification/assets/part-i-intoduction/part-i-introduction-benefits.png)
+![Image Scrum's 16 Benefits)](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scum-fundamentals-certification/assets/part-i-intoduction/sfc-part-i-introduction-benefits.png)
 
 ## Benefits
 Scrum consist of 16 benefits. The benefits are the following:
@@ -210,9 +267,9 @@ The Retrospect Sprint and Retrospect Project processes create an environment of 
 
 # Conclusion
 I highly recommend anyone interested in learning the process of software development or project management to take
-SCRUMstudy's Scum Fundamentals Certification (SFC) exam. In this section, 
+SCRUMstudy's Scrum Fundamentals Certification (SFC) exam. In this section, 
 ***Scrum Fundamentals Certification (SFC) | Notes - Part I:  Introduction***, I provided a synopsis of the examination, 
-an overview of scrum, its benefits, and impediments. 
+an overview of scrum, its benefits, and impediments.
  
 <br/>
  
