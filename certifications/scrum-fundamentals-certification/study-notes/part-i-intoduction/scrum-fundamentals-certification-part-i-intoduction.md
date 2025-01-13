@@ -139,7 +139,7 @@ A Scrum project involves a collaborative effort to create a new product, service
 
 # Scrum Components
 
-
+![Image - Scrum Components](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-i-intoduction/sfc-part-i-introduction-components.png)
 
 ## Scrum Components 
 Scrum consist of three primary components: principles, aspects, and phases. SCRUMstudy's Scrum Body of Knowledge, SBOK Guide is divided the into three areas: 
@@ -182,10 +182,116 @@ Scrum consists of five phases:
 
 <br/> 
 
+---
+
+# Scrum Principles
+
+![Image – 6 Principles](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-ii-principles/sfc-part-ii-title-principles.png)
 
 
+## Empirical Process Control
+An Empirical Process Control model helps make decisions based on observation and experimentation rather than on detailed upfront planning. It relies on the three main ideas of transparency, inspection, and Adaptation. 
+ 
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Glossary | page 363
+ 
+## Self-Organization 
+Scrum believes that employees are self-motivated and seek to accept greater responsibility. Hence, they deliver much greater value when self-organized. 
+ 
+ ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Glossary | page 384
+ 
+## Collaboration 
+Collaboration in Scrum refers to the Scrum Core Team working together and interfacing with the stakeholders to create and validate the deliverables of the project to meet the goals outlined in the Project Vision. Collaboration occurs when a team works together to play off each other’s contributions to produce something greater. 
+ 
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Glossary | page 358
+ 
+## Value-based Prioritization 
+Scrum, however, uses Value-based Prioritization as one of the core principles that drives the structure and functionality of the entire Scrum framework—it helps projects benefit through adaptability and iterative development of the product or service. More significantly, Scrum aims at delivering a valuable product or service to the customer on an early and continuous basis. 
+ 
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Principles | page 33
+ 
+## Time-boxing 
+Time-boxing refers to setting short periods of time for work to be done. If the work undertaken remains 
+incomplete at the end of the Time-box, it is moved into a subsequent Time-box. Time-boxes provide the 
+structure needed for Scrum projects, which have an element of uncertainty, are dynamic in nature, and are prone to frequent changes. 
+ 
+ ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Glossary | page 389
+ 
+## Iterative Development
+Iterative Development emphasizes how to better manage changes and build products that satisfy customer needs. 
+ 
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Introduction | page 10
 
+<br/>
 
+---
+
+# Scrum Aspects
+
+![Image – 5 Aspects](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-iii-aspects/sfc-part-iii-title-aspects.png)
+
+## Organization
+Organization with Scrum roles fall into two broad categories: core and non-core roles.
+ 
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Introduction | page 11, 12
+ 
+## Business Justification
+Business Justification demonstrates the reasons for undertaking a project. It answers the question “Why is this project needed?” Business justification drives all decision making related to a project.
+ 
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Glossary | page 357
+ 
+## Quality
+Quality is defined as the ability of the completed product or Deliverables to meet the Acceptance Criteria and achieve the business value expected by the customer.
+ 
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Glossary| page: 375
+ 
+## Change
+Change is inevitable in all projects. A primary principle of Scrum is its acknowledgement that a) stakeholders (e.g., customers, users, and sponsors) do change their minds about what they want and need throughout a project (sometimes referred to as ‘requirements churn’) and b) that it is very difficult, if not impossible, for stakeholders to define all requirements during project initiation.
+ 
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Change | page: 102
+ 
+## Risk
+Risk is defined as an uncertain event or set of events that can affect the objectives of a project and may
+contribute to its success or failure.
+ 
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Glossary | page: 380
+
+<br/>
+
+---
+
+# Scrum Phases
+
+![Image – 5 Phases](https://github.com/jasmineMLewis/Articles/blob/Production/certifications/scrum-fundamentals-certification/assets/part-iv-phases-processes/sfc-part-iv-title-phases.png)
+
+## Initiate
+This phase is composed of the processes related to initiation of a project: Create Project Vision, Identify 
+Scrum Master and Stakeholder(s), Form Scrum Team, Develop Epic(s), Create Prioritized Product Backlog, and Conduct Release Planning. 
+ 
+ ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Glossary| page: 367
+ 
+## Plan and Estimate
+The Plan and Estimate phase consist of processes related to planning and estimating tasks, which include Create User Stories, Estimate User Stories, Commit User Stories, Identify Tasks, Estimate Tasks, and Create Sprint Backlog. 
+ 
+ ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Glossary| page: 372
+ 
+## Implement 
+The Implement Phase includes processes related to the execution of the tasks and activities to create a 
+project’s product. 
+ 
+ ***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: 366 | page: Glossary
+ 
+## Review and Retrospect
+The Review and Retrospect phase is concerned with reviewing the deliverables and the work that has been done and determining ways to improve the practices and methods used to do project work. In large organizations.
+ 
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Review and Retrospect | page: 241
+ 
+## Release
+The Release phase emphasizes delivering the Accepted Deliverables to the customer and identifying, 
+documenting, and internalizing the lessons learned during the project. 
+ 
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf)  | Chapter: Release | page: 257
+
+<br/>
 
 ---
 
