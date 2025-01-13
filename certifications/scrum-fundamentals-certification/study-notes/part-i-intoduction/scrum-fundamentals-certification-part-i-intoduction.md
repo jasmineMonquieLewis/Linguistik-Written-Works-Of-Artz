@@ -366,7 +366,9 @@ A collaborative framework enables highly skilled cross-functional teams to achie
  
 ### Innovative Environment 
 The Retrospect Sprint and Retrospect Project processes create an environment of introspection, learning, and adaptability leading to an innovative and creative work environment. 
- 
+
+***Reference*** | Scrum Body of Knowledge, SBOK Guide | [4th Edition](https://github.com/jasmineMLewis/Articles/blob/Production/assets-general/scrumstudy-books-resources/scrumstudy-sbok-guide-fourth-edition.pdf) | Chapter: Introduction | page: 4
+
 <br/>
 
 ---
